@@ -20,8 +20,8 @@ no_index:
     - xt
 requires:
   Image::ExifTool: 0
-  Imager: 0.38
+  Imager: 0.51
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/yappo/p5-Imager-ExifOrientation.git
-version: 0.05
+version: 0.06
